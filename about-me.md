@@ -1,5 +1,2 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
-
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
-
+Currently, I am a Freshman at Morgan State University, located in Baltimore, Maryland. I'm currently majoring in Physics but I plan on changing my major to Mathematics. I'm expected to graduated in 2027. I don't really know what I want to do with my degree just yet, but I plan on doing what feels the best according to my interests and skillset. 
