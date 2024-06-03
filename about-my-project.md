@@ -1,15 +1,7 @@
 ## About My Project
 
-mBot Neo
+My project is centered around Mind Mastery
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
-
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
-
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
-
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+More specifically, the ability to connect brainwaves to a comupter through an interface in order to develop play a game. Creating a game like this actually takes quite alot of work since the both the developer and the person in question has to identify what signals and frequencies the brain emits in order to get the imputs needed. 
 
 
