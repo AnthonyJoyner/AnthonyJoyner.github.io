@@ -1,7 +1,15 @@
 ## About My Project
 
-My project is centered around Mind Mastery
+Mind Mastery
 
-More specifically, the ability to connect brainwaves to a comupter through an interface in order to develop play a game. Creating a game like this actually takes quite alot of work since the both the developer and the person in question has to identify what signals and frequencies the brain emits in order to get the imputs needed. 
+Problem: There is a lack of solutions regarding training time, fatigue, control settings, etc.
+
+Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+
+- Capture neurological data such as certain neural oscillations triggered by specific responses from the nervous system.
+- Process data and classify thoughts/actions such as gestures (e.g., jaw movements) and oscillation frequencies.
+- Map output from neurological sensors to a digital game/puzzle.
+  
+Expected Outcome: The project is expected to result in a game requiring the use of headgear and neural imputs to be played and cleared successfully. This should be acomplishable with minimal training involved as to prevent fatigue.
 
 
